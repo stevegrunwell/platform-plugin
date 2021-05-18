@@ -11,7 +11,7 @@ In this session, we'll be taking a deep dive into the architecture, development 
 
 ## Presentation History
 
-* [WordCamp Northeast Ohio Region (NEO) 2021](https://neo.wordcamp.org/2021/)
+* [WordCamp Northeast Ohio Region (NEO) 2021](https://neo.wordcamp.org/2021/) — May 23, 2021 ([PDF](https://github.com/stevegrunwell/platform-plugin/releases/download/wordcamp-neo-2021/slides.pdf))
 
 
 ## Resources
