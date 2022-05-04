@@ -12,7 +12,7 @@ In this session, we'll be taking a deep dive into the architecture, development 
 ## Presentation History
 
 * [WordSesh 2021](https://wordsesh.com/) — May 26, 2021 ([PDF](https://github.com/stevegrunwell/platform-plugin/releases/download/wordsesh-2021/slides.pdf))
-* [WordCamp Northeast Ohio Region (NEO) 2021](https://neo.wordcamp.org/2021/) — May 23, 2021 ([PDF](https://github.com/stevegrunwell/platform-plugin/releases/download/wordcamp-neo-2021/slides.pdf))
+* [WordCamp Northeast Ohio Region (NEO) 2021](https://neo.wordcamp.org/2021/) — May 23, 2021 ([Video](https://wordpress.tv/2021/05/28/steve-grunwell-considerations-and-concerns-for-platform-plugin-development/), [PDF](https://github.com/stevegrunwell/platform-plugin/releases/download/wordcamp-neo-2021/slides.pdf))
 
 
 ## Resources
